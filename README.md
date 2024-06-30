@@ -29,3 +29,10 @@ Here is a video demonstrating the pick-and-place task using the implemented syst
         <source src="Videos/pick_and_place_real_robot.mp4" type="video/mp4">
     </video>
 </div>
+
+<div style="display: flex; justify-content: center;">
+    <video width="860" height="360" controls>
+        <source src="Videos/real_robot_compressed.mp4" type="video/mp4">
+    </video>
+</div>
+
